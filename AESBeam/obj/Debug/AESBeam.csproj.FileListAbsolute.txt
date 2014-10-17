@@ -1,0 +1,12 @@
+c:\users\master\documents\visual studio 2013\Projects\AESBeam\AESBeam\bin\Debug\AESBeam.exe.config
+c:\users\master\documents\visual studio 2013\Projects\AESBeam\AESBeam\bin\Debug\AESBeam.exe
+c:\users\master\documents\visual studio 2013\Projects\AESBeam\AESBeam\bin\Debug\AESBeam.pdb
+c:\users\master\documents\visual studio 2013\Projects\AESBeam\AESBeam\obj\Debug\AESBeam.csprojResolveAssemblyReference.cache
+c:\users\master\documents\visual studio 2013\Projects\AESBeam\AESBeam\obj\Debug\AESBeam.Master.resources
+c:\users\master\documents\visual studio 2013\Projects\AESBeam\AESBeam\obj\Debug\AESBeam.Properties.Resources.resources
+c:\users\master\documents\visual studio 2013\Projects\AESBeam\AESBeam\obj\Debug\AESBeam.csproj.GenerateResource.Cache
+c:\users\master\documents\visual studio 2013\Projects\AESBeam\AESBeam\obj\Debug\AESBeam.exe
+c:\users\master\documents\visual studio 2013\Projects\AESBeam\AESBeam\obj\Debug\AESBeam.pdb
+c:\users\master\documents\visual studio 2013\Projects\AESBeam\AESBeam\bin\Debug\af\AESBeam.resources.dll
+c:\users\master\documents\visual studio 2013\Projects\AESBeam\AESBeam\obj\Debug\AESBeam.Master.af.resources
+c:\users\master\documents\visual studio 2013\Projects\AESBeam\AESBeam\obj\Debug\af\AESBeam.resources.dll
