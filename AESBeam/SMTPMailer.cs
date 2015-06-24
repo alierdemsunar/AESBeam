@@ -18,7 +18,7 @@ namespace AESBeam
             eMail.Subject = AttachmentFile;
             eMail.Body = AttachmentFile;
             SmtpClient smtp = new SmtpClient();
-            smtp.Credentials = new System.Net.NetworkCredential("aessecx@gmail.com", "Aes60250413");
+            smtp.Credentials = new System.Net.NetworkCredential("aessecx@gmail.com", "AeSSecx");
             smtp.Port = 587;
             smtp.Host = "smtp.gmail.com";
             smtp.EnableSsl = true;
